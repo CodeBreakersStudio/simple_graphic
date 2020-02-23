@@ -1,18 +1,19 @@
-# graphics.py
-http://mcsp.wartburg.edu/zelle/python/graphics.py
+# simple_graphic
+Simple to use graphic lib based on [jminz graphic.py](https://github.com/jminz/graphics.py)
 
-http://mcsp.wartburg.edu/zelle/python/graphics/graphics.pdf
+# Install <!--remotely-->
+`pip install git+https://github.com/KacperKotlewski/graphics.py`
 
-# Install remotely
-`pip install https://raw.githubusercontent.com/jminz/graphics.py/master/graphics-py_installer.tar.gz`
-
+<!--
 # Install manually
 `git clone https://github.com/jminz/graphics.py.git`
 
 `tar -czvf graphics-py_installer.tar.gz ./graphics.py ./setup.py`
 
 `pip install graphics-py_installer.tar.gz`
+-->
 
+<!--
 # Quick Start
 ```python
 from graphics import *
@@ -25,5 +26,6 @@ def main():
     win.close()
 main()
 ```
+-->
 
 # Enjoy!
