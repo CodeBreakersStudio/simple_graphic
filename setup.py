@@ -17,5 +17,5 @@ setup(
     install_requires=[
        "tkinter",
     ],
-    url="https://github.com/KacperKotlewski/graphics.py",
+    url="https://github.com/KacperKotlewski/simple_graphic",
    )

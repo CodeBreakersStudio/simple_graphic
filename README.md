@@ -2,11 +2,11 @@
 Simple to use graphic lib based on [jminz graphic.py](https://github.com/jminz/graphics.py)
 
 # Install <!--remotely-->
-`pip install git+https://github.com/KacperKotlewski/graphics.py`
+`pip install git+https://github.com/KacperKotlewski/simple_graphic.git`
 
 <!--
 # Install manually
-`git clone https://github.com/jminz/graphics.py.git`
+`git clone https://github.com/KacperKotlewski/simple_graphic.git`
 
 `tar -czvf graphics-py_installer.tar.gz ./graphics.py ./setup.py`
 
